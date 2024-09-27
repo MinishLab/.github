@@ -25,3 +25,4 @@ We're not going to try and tell you what to do, we'll just show you what you can
 
 You can also find us on: 
 🤗 [huggingface](https://huggingface.co/minishlab)
+👽 [LinkedIn](https://www.linkedin.com/company/minish-lab/)
