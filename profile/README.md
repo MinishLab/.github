@@ -17,7 +17,7 @@ We aim to make software that is:
 * Fun to use 🥳
 * Opinionated 🤔
 * Open for integration 🧲
-* Does not re-invent the wheel 🤸
+* Original (does not re-invent the wheel) 🤸
 * Fast 🚴
 
 In short, this means we make software packages that do one thing well, and that let you do that specific thing, and integrate it into a use of your choosing.
