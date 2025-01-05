@@ -1,27 +1,22 @@
-## Hi there 🥬
+## Hello, we're minish!
 
-We are the minish lab 🍄! Welcome to our github page. We're a two-person ([@pringled](https://github.com/Pringled) and [@stephantul](https://github.com/stephantul)) open-source research lab, with a focus on Natural Language Processing. 
-Our goal is to provide with usable and fun tools to make working with language data easy and fun.
+We're a two-person ([@pringled](https://github.com/Pringled) and [@stephantul](https://github.com/stephantul)) open-source company, with a focus on Natural Language Processing.
 
-* We like fast things, so we focus on small models. 
-* We like "classical" nlp and machine learning, so no LLM interfaces here. 
-* We like cpu-bound work, not everyone has access to GPUs or wants to pay big tech companies for using GPUs.
-* We try to be as multi-lingual as possible: NLP work tends to focus purely on English, to the detriment of other languages.
-* We write in Python, and use a pretty opinionated stack (uv, everything fully typed, everything fully documented, no exceptions).
-* We try to be inclusive: if you'd like to help out, please let us know 🤗.
+We believe that if you make models fast enough, you unlock new possibilities.
 
-### Main goals
+Using our software, you can:
+* Ingest the entire English Wikipedia in 5 minutes
+* Classify tens of thousands of documents per second on CPU
+* Approximately deduplicate extremely large datasets in minutes
+* Build the fastest RAG application in the world
+* Easily evaluate which ANN algorithm works best for your data
 
-We aim to make software that is:
-* Easy to use ⛓️
-* Fun to use 🥳
-* Opinionated 🤔
-* Open for integration 🧲
-* Original (does not re-invent the wheel) 🤸
-* Fast 🚴
+Our projects:
 
-In short, this means we make software packages that do one thing well, and that let you do that specific thing, and integrate it into a use of your choosing.
-We're not going to try and tell you what to do, we'll just show you what you can do, and we'll hope you have fun doing it.
+* [model2vec](https://github.com/MinishLab/model2vec): make tiny models that are still really really good.
+* [potion](https://huggingface.co/minishlab/potion-base-8M): the best small model in the world. 100-500x faster than a sentence-transformer, and almost as good.
+* [vicinity](https://github.com/MinishLab/vicinity): consistent interfaces to many approximate nearest neighbor algorithms.
+* [semhash](https://github.com/MinishLab/semhash): lightning-fast, super accuracte, approximate deduplication for your text datasets.
 
 You can also find us on: 
 🤗 [huggingface](https://huggingface.co/minishlab)
