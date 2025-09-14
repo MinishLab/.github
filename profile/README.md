@@ -1,17 +1,19 @@
 ## Hello, we're Minish!
 
-We're a two-person ([@pringled](https://github.com/Pringled) and [@stephantul](https://github.com/stephantul)) open-source lab, with a focus on Natural Language Processing.
+### About us
+We're an open-source lab, with a focus on Natural Language Processing. Minish is currently maintained by [@pringled](https://github.com/Pringled).
+The lab was originally founded by [@pringled](https://github.com/Pringled) and [@stephantul](https://github.com/stephantul).
 
 We believe that if you make models fast enough, you unlock new possibilities.
 
-Using our software, you can:
+Using our models and packages, you can:
 * Embed the entire English Wikipedia in 5 minutes
 * Classify tens of thousands of documents per second on a CPU
 * Approximately deduplicate extremely large datasets in minutes
 * Build the fastest RAG application in the world
 * Easily evaluate which ANN algorithm works best for your data
 
-Our projects:
+### Our projects:
 
 * [model2vec](https://github.com/MinishLab/model2vec): tiny static embedding models with state-of-the-art performance.
 * [potion](https://huggingface.co/collections/minishlab/potion-6721e0abd4ea41881417f062): the best small models in the world. 100-500x faster than a sentence-transformer, and almost as good.
