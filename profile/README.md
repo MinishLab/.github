@@ -1,8 +1,7 @@
 ## Hello, we're Minish!
 
 ### About us
-We're an open-source lab, with a focus on Natural Language Processing. Minish is currently maintained by [@pringled](https://github.com/Pringled).
-The lab was originally founded by [@pringled](https://github.com/Pringled) and [@stephantul](https://github.com/stephantul).
+We're a two-person ([pringled](https://github.com/Pringled) and [stephantul](https://github.com/stephantul)) open-source lab, with a focus on Natural Language Processing.
 
 We believe that if you make models fast enough, you unlock new possibilities.
 
