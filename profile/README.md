@@ -16,6 +16,7 @@ Using our models and packages, you can:
 
 * [model2vec](https://github.com/MinishLab/model2vec): tiny static embedding models with state-of-the-art performance.
 * [potion](https://huggingface.co/collections/minishlab/potion-6721e0abd4ea41881417f062): the best small models in the world. 100-500x faster than a sentence-transformer, and almost as good.
+* [semble](https://github.com/MinishLab/semble): the fastest and best code search library for your agent.
 * [vicinity](https://github.com/MinishLab/vicinity): consistent interfaces to many approximate nearest neighbor algorithms.
 * [semhash](https://github.com/MinishLab/semhash): lightning-fast, super accuracte, semantic deduplication and filtering for your text datasets.
 * [model2vec-rs](https://github.com/MinishLab/model2vec-rs): a Rust port of model2vec.
